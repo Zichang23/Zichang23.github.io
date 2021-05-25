@@ -3,13 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](1.jpg)
+![](/images/1.JPG){width=50%, height=50%}
+
+
+knitr::include_graphics("/images/1.JPG")
+
 
 I am a student in the Master's in Statistics program at NC State and I am located in Seattle, WA. This is my last semester. I really enjoy studying statistics!
 
 ### More Information
 
-**Hobbies**: reading, cooking, hiking, cycyling, traveling, and shopping
+**Hobbies**: reading, cooking, hiking, cycling, traveling, and shopping
 
 ### Contact me
 
