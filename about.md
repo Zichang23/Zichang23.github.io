@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+![](1.jpg)
 
-Some information about you!
+I am a student in the Master's in Statistics program at NC State and I am located in Seattle, WA. This is my last semester. I really enjoy studying statistics!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+**Hobbies**: reading, cooking, hiking, cycyling, traveling, and shopping
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zxiang4@ncsu.edu](mailto:zxiang4@ncsu.edu)
