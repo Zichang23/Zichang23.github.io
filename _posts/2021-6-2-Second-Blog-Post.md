@@ -5,13 +5,13 @@ SAS: it is not free. It has dedicated customer service in addition to the commun
 
 #### What functionality do you like about R?  
 It is quite flexible. There are many ways to achieve the same goal. 
-It can be easily extended through functions and extensions
-Many user-created packages extend the capabilities of R
+It can be easily extended through functions and extensions.  
+Many user-created packages extend the capabilities of R.  
 
 
 #### What parts do you miss about your other language?   
-SAS is not difficult to learn and supplies simple choice
-SAS can produce a lot of fancy outputs
+SAS is not difficult to learn and supplies simple choice.  
+SAS can produce a lot of fancy outputs.  
 SAS release upgrades in managing the environment. Thus, they are well analyzed, which eliminates the opportunities for mistakes.
 
 #### Do you consider R a difficult language to learn? (If you knew R prior to the course, describe your experience when first learning it.).   
