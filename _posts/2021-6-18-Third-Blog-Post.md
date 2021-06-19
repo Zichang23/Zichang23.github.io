@@ -16,6 +16,6 @@ I will do my best to better understand the requirements for the project. This wi
 
 
 
-github pages repo: https://zichang23.github.io/Project-1/
+GitHub pages repo: https://zichang23.github.io/Project-1/
 
 Usual repo: https://github.com/Zichang23/Project-1
