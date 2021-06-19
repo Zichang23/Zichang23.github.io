@@ -12,7 +12,7 @@ For me, the most challenging part is figuring out how to create the functions to
 
 #### 2. What would you do differently in approaching a similar project in the future?
 
-I will do my best to better understand the requirements for the project. This will help me understand what I need to do and how to accomplish the project.
+I will do my best to understand the requirements for the project. This will help me understand what I need to do and how to accomplish the project.
 
 
 
