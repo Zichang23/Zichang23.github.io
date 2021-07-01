@@ -7,4 +7,4 @@
 
 GitHub pages repo:
 
-Usual repo:
+GitHub.com repo:
