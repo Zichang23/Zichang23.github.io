@@ -8,5 +8,5 @@ One semester of studying R has opened my eyes to how powerful R is. Before takin
 
 I will certainly continue to use R in my future work and study. I can perform statistical computing and analysis more efficiently, generate various numerical and graphical summaries of data, and present my results in various formats, including PDF reports, HTML pages, and interactive shiny apps. It will definitely benefit me in the long run.
 
-#### what things are you going to do differently in practice now that you've had this course?
+#### What things are you going to do differently in practice now that you've had this course?
 R will be used more in my life since it is such a powerful tool.
