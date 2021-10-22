@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](/images/1.png)
 
 I am a student in the Master's in Statistics program at NC State. This is my last semester. I really enjoy studying statistics!
 
