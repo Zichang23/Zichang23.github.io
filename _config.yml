@@ -2,15 +2,14 @@ title: <p align="center"> Zichang Xiang </p> # your name (or website title) here
 logo: "/images/photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
-  <a href="https://www.linkedin.com/in/zichangxiang/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/zichangxiang/">LinkedIn</a>|
   <a href="https://github.com/Zichang23">Github</a>
   </p>
-  <br><br>
   <p align="center">
   PhD Candidate in Statistics @ SMU
+  <br><br>
   MS in Statistics @ NCSU
   <br><br>
  
-  
 theme: jekyll-themes-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
