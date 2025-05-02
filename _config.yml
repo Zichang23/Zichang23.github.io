@@ -1,13 +1,16 @@
 title: <p align="center"> Zichang Xiang </p> # your name (or website title) here
 logo: "/images/photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
+  <p align="center">
+  <a href="https://www.linkedin.com/in/zichangxiang/">LinkedIn</a>
+  <a href="https://github.com/Zichang23">Github</a>
+  </p>
   <br><br>
-  PhD Candidate in Statistics @ SMU | MS in Statistics @ NCSU
+  <p align="center">
+  PhD Candidate in Statistics @ SMU
+  MS in Statistics @ NCSU
   <br><br>
-  <a href="https://www.linkedin.com/in/zichangxiang/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a href="https://github.com/Zichang23">View My Github Profile</a>
+ 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
